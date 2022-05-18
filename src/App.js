@@ -1,10 +1,14 @@
+import FormContainer from "./components/Containers/FormContainer";
+import PreviewContainer from "./components/Containers/PreviewContainer";
+
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1 className="text-3xl font-bold underline text-red-600">
-          Hello world!
-        </h1>
+        <div className="flex w-full">
+          <FormContainer />
+          <PreviewContainer />
+        </div>
       </header>
     </div>
   );
