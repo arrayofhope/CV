@@ -1,11 +1,12 @@
-# Getting Started with Create React App
+# CV Builder website using React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-### `npm run tailwind:watch`
-Runs tailwind
 
+### `npm run tailwind:watch`
+
+Runs tailwind
 
 In the project directory, you can run:
 
